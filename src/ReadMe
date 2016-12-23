@@ -1,2 +1,2 @@
-We used the Weather_Data.py to scrape all weather data we need.
-And we utilized pyspark to process the massive weather data to do clustring on it
+1.We used the Weather_Data.py to scrape all weather data we need.
+2.We utilized pyspark to process the massive weather data to do clustring on it.
