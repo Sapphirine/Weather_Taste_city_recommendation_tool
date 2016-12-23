@@ -1,2 +1,5 @@
-In our weather data, we used python script to get the ten-year-long weather records from Weather Undergroud for analyzing. 
-These csv files are just a tiny part of our massive weather data.          
+We did web scraping with python script to download the ten-year-long daily weather records from Weatherundergroud.com for analysis. 
+
+The dataset covers more than 1600 cities in US.
+
+These .csv files are just a small part of our massive weather dataset.          
