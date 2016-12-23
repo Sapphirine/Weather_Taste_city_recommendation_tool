@@ -1,2 +1,5 @@
-1.We used the Weather_Data.py to scrape all weather data we need.
-2.We utilized pyspark to process the massive weather data to do clustring on it.
+1. We used the Weather_Data.py to scrape all weather data we need.
+2. R code is used to process the downloaded weather dataset; create the pseudo user dataset;
+   Do PCA, CLARA clustering and recommendation;Develop Shiny APP functions
+3. We utilized pyspark to process the massive weather data to do k-means clustring on it.
+4. We also tried Mahout for Recommendation algorithm.
